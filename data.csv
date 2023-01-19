@@ -1,0 +1,2048 @@
+﻿>=50k,56,M,37173,3,pneumonia
+<50k,63,M,28648,1,diabetes
+>=50k,49,M,53480,5,anemia
+>=50k,30,F,52026,8,cardiac arrest
+<50k,46,F,42019,12,cancer
+<50k,75,F,51166,9,bronchites
+>=50k,30,F,53434,10,diabetes
+<50k,55,F,28764,4,cancer
+>=50k,68,M,25775,11,bronchites
+>=50k,67,M,39441,1,diabetes
+<50k,40,M,54249,4,cancer
+<50k,38,M,35712,6,pneumonia
+>=50k,35,M,44086,2,cardiac arrest
+<50k,32,M,49348,4,bronchites
+>=50k,66,M,49583,5,cardiac arrest
+>=50k,68,M,40793,5,diabetes
+<50k,52,M,43726,11,bronchites
+<50k,63,M,54489,1,anemia
+>=50k,38,M,40624,8,cardiac arrest
+<50k,73,M,45082,8,cancer
+>=50k,77,M,48636,13,bronchites
+>=50k,65,M,31327,2,anemia
+<50k,50,F,22897,11,pneumonia
+<50k,38,F,47635,15,cancer
+>=50k,73,F,49017,14,pneumonia
+<50k,37,F,32110,1,diabetes
+>=50k,71,F,36023,6,anemia
+>=50k,76,F,26112,7,cardiac arrest
+<50k,81,M,49538,1,cancer
+<50k,80,F,28039,12,bronchites
+>=50k,80,F,41100,8,pneumonia
+<50k,67,M,29254,1,bronchites
+>=50k,54,M,34026,2,anemia
+>=50k,42,M,33590,13,cardiac arrest
+<50k,58,M,23249,14,bronchites
+<50k,32,M,30878,1,cardiac arrest
+>=50k,31,M,39586,3,bronchites
+<50k,63,M,47289,10,pneumonia
+>=50k,40,M,37876,12,anemia
+>=50k,57,M,42963,9,cancer
+<50k,27,M,46906,5,cardiac arrest
+<50k,61,M,51926,8,anemia
+>=50k,63,M,44562,5,bronchites
+<50k,45,M,33146,1,anemia
+>=50k,49,M,36466,9,pneumonia
+>=50k,69,M,54613,12,bronchites
+<50k,46,M,52874,10,cardiac arrest
+<50k,58,M,46724,10,anemia
+>=50k,81,M,25963,7,cancer
+<50k,27,F,33584,1,cardiac arrest
+>=50k,40,F,40065,15,cardiac arrest
+>=50k,33,F,32273,11,bronchites
+<50k,48,F,31951,10,pneumonia
+<50k,71,F,44532,7,anemia
+>=50k,75,F,40374,7,bronchites
+<50k,38,M,29080,11,anemia
+>=50k,62,F,28059,6,cancer
+>=50k,53,F,27580,4,pneumonia
+<50k,39,F,31537,13,bronchites
+<50k,46,M,25111,9,cardiac arrest
+>=50k,75,M,53362,8,bronchites
+<50k,40,M,46579,5,anemia
+>=50k,65,F,33456,10,cancer
+>=50k,42,M,30169,11,pneumonia
+<50k,38,F,46440,11,pneumonia
+<50k,48,M,25616,13,cardiac arrest
+>=50k,32,M,53075,7,bronchites
+<50k,35,M,30534,1,cancer
+>=50k,56,M,54207,1,anemia
+>=50k,43,M,23726,15,cancer
+<50k,61,F,26764,8,cardiac arrest
+<50k,34,F,40103,5,bronchites
+>=50k,66,F,29191,14,cancer
+<50k,68,F,43132,8,pneumonia
+>=50k,49,F,51003,15,pneumonia
+>=50k,38,F,37820,7,cardiac arrest
+<50k,71,F,31123,8,bronchites
+<50k,76,M,55205,6,bronchites
+>=50k,34,F,23462,5,anemia
+<50k,76,F,51000,14,diabetes
+>=50k,69,F,35441,3,anemia
+>=50k,68,F,52837,9,cardiac arrest
+<50k,75,F,37892,5,anemia
+<50k,50,M,45541,3,bronchites
+>=50k,62,M,47274,12,cancer
+<50k,74,M,38859,2,pneumonia
+>=50k,80,F,44560,10,diabetes
+>=50k,28,M,31705,5,anemia
+<50k,50,M,41134,7,cardiac arrest
+<50k,46,M,45007,4,cancer
+>=50k,34,M,36920,2,bronchites
+<50k,62,M,46974,9,cancer
+>=50k,35,M,28571,7,anemia
+>=50k,69,M,27357,14,pneumonia
+<50k,52,M,28986,3,bronchites
+<50k,55,M,48845,5,anemia
+>=50k,53,M,48437,4,cancer
+<50k,59,F,46777,5,cardiac arrest
+>=50k,78,F,39647,11,anemia
+>=50k,69,F,31403,3,bronchites
+>=50k,57,M,22368,6,pneumonia
+<50k,60,M,24162,4,diabetes
+>=50k,59,M,43805,2,anemia
+>=50k,75,F,49450,10,cardiac arrest
+<50k,76,F,23283,12,cancer
+<50k,76,F,46686,6,bronchites
+>=50k,41,F,36661,6,diabetes
+<50k,60,F,40367,14,cancer
+>=50k,32,M,41525,10,bronchites
+>=50k,80,M,26508,9,diabetes
+<50k,73,M,24381,14,cancer
+<50k,71,M,30766,4,pneumonia
+>=50k,28,M,50174,10,cardiac arrest
+<50k,29,M,36358,9,bronchites
+>=50k,58,M,50015,13,cardiac arrest
+>=50k,71,M,42782,2,diabetes
+<50k,51,M,25664,7,bronchites
+<50k,71,M,24414,8,anemia
+>=50k,79,M,38420,5,cardiac arrest
+<50k,37,M,23044,14,cancer
+>=50k,32,M,34682,2,bronchites
+>=50k,38,M,23864,7,anemia
+<50k,36,F,25154,6,pneumonia
+<50k,68,F,26763,13,cancer
+>=50k,28,F,28450,1,pneumonia
+<50k,52,F,22488,10,diabetes
+>=50k,58,F,28707,14,anemia
+>=50k,48,F,23666,13,cardiac arrest
+<50k,79,M,35034,13,cancer
+<50k,80,F,54966,14,bronchites
+>=50k,54,F,42901,4,pneumonia
+<50k,35,M,24281,14,bronchites
+>=50k,58,M,45212,2,anemia
+>=50k,58,M,43127,13,cardiac arrest
+<50k,43,M,53182,4,bronchites
+<50k,29,M,35020,4,cardiac arrest
+>=50k,28,M,29713,1,bronchites
+<50k,59,M,36708,1,pneumonia
+>=50k,74,M,36190,10,anemia
+>=50k,74,M,41054,1,cancer
+<50k,80,M,47647,7,cardiac arrest
+<50k,74,M,46897,4,anemia
+>=50k,77,M,43310,3,bronchites
+<50k,67,M,49890,2,anemia
+>=50k,66,M,46072,15,pneumonia
+>=50k,71,M,39679,5,bronchites
+<50k,35,M,33271,10,cardiac arrest
+<50k,27,M,38521,10,anemia
+>=50k,27,M,24297,3,cancer
+<50k,76,F,54472,4,cardiac arrest
+>=50k,41,F,30199,14,cardiac arrest
+>=50k,70,F,36992,12,bronchites
+<50k,31,F,30487,15,pneumonia
+<50k,63,F,48540,4,anemia
+>=50k,50,F,53710,1,bronchites
+<50k,43,M,45628,7,anemia
+>=50k,39,F,23799,8,cancer
+>=50k,44,F,38532,6,pneumonia
+<50k,42,F,39886,6,bronchites
+<50k,32,M,30300,13,cardiac arrest
+>=50k,47,M,41911,10,bronchites
+<50k,34,M,41771,14,anemia
+>=50k,36,F,45527,9,cancer
+>=50k,35,M,47168,11,pneumonia
+<50k,52,F,23916,9,pneumonia
+<50k,29,M,33506,2,cardiac arrest
+>=50k,76,M,23506,12,bronchites
+<50k,74,M,50430,13,cancer
+>=50k,59,M,54640,1,anemia
+>=50k,49,M,47770,6,cancer
+<50k,59,F,29367,5,cardiac arrest
+<50k,45,F,27151,15,bronchites
+>=50k,66,F,25249,8,cancer
+<50k,49,F,25202,13,pneumonia
+>=50k,67,F,31984,7,pneumonia
+>=50k,66,F,52846,2,cardiac arrest
+<50k,64,F,47167,2,bronchites
+<50k,54,M,44132,8,bronchites
+>=50k,27,F,43386,3,anemia
+<50k,57,F,31477,13,diabetes
+>=50k,47,F,42004,11,anemia
+>=50k,28,F,40353,2,cardiac arrest
+<50k,71,F,46325,14,anemia
+<50k,81,M,33905,10,bronchites
+>=50k,37,M,47605,14,cancer
+<50k,78,M,50841,14,pneumonia
+>=50k,29,F,23871,9,diabetes
+>=50k,66,M,29082,1,anemia
+<50k,77,M,36824,11,cardiac arrest
+<50k,53,M,44637,6,cancer
+>=50k,75,M,32705,4,bronchites
+<50k,55,M,36404,13,cancer
+>=50k,45,M,40614,2,anemia
+>=50k,39,M,25376,1,pneumonia
+<50k,30,M,54047,9,bronchites
+<50k,42,M,31774,13,anemia
+>=50k,55,M,53239,7,cancer
+<50k,60,F,39310,9,cardiac arrest
+>=50k,75,F,35773,2,anemia
+>=50k,66,F,28000,6,bronchites
+>=50k,58,M,46156,10,pneumonia
+<50k,71,M,53795,12,diabetes
+>=50k,28,M,35491,3,anemia
+>=50k,51,F,43039,7,cardiac arrest
+<50k,42,F,27217,4,cancer
+<50k,38,F,41855,3,bronchites
+>=50k,74,F,32086,15,diabetes
+<50k,65,F,31219,10,cancer
+>=50k,70,M,24678,9,bronchites
+>=50k,43,M,43226,1,diabetes
+<50k,51,M,29021,10,cancer
+<50k,35,M,27289,14,pneumonia
+>=50k,68,M,40109,3,cardiac arrest
+<50k,65,M,43552,4,bronchites
+>=50k,60,M,37053,5,cardiac arrest
+>=50k,63,M,52412,10,diabetes
+<50k,59,M,49122,9,bronchites
+<50k,55,M,39311,11,anemia
+>=50k,43,M,37718,2,cardiac arrest
+<50k,34,M,36605,12,cancer
+>=50k,65,M,37780,15,bronchites
+>=50k,77,M,48862,8,anemia
+<50k,74,F,23729,12,pneumonia
+<50k,63,F,47747,4,cancer
+>=50k,57,F,33326,15,pneumonia
+<50k,44,F,35983,14,diabetes
+>=50k,81,F,39053,5,anemia
+>=50k,38,F,24729,6,cardiac arrest
+<50k,59,M,35396,5,cancer
+<50k,27,F,50700,15,bronchites
+>=50k,33,F,24506,8,pneumonia
+<50k,39,M,50793,13,bronchites
+>=50k,55,M,48211,14,anemia
+>=50k,63,M,48299,1,cardiac arrest
+<50k,31,M,51246,4,bronchites
+<50k,59,M,29440,12,cardiac arrest
+>=50k,66,M,28524,5,bronchites
+<50k,81,M,43737,6,pneumonia
+>=50k,40,M,43946,3,anemia
+>=50k,38,M,29772,10,cancer
+<50k,77,M,27303,11,cardiac arrest
+<50k,38,M,39009,1,anemia
+>=50k,71,M,54972,1,bronchites
+<50k,67,M,39855,14,anemia
+>=50k,59,M,54765,6,pneumonia
+>=50k,75,M,33370,5,bronchites
+<50k,81,M,50164,1,cardiac arrest
+<50k,38,M,49200,2,anemia
+>=50k,31,M,30527,14,cancer
+<50k,60,F,23635,5,cardiac arrest
+>=50k,77,F,41733,12,cardiac arrest
+>=50k,78,F,27674,7,bronchites
+<50k,45,F,42163,5,pneumonia
+<50k,29,F,31264,11,anemia
+>=50k,52,F,54714,15,bronchites
+<50k,44,M,53596,14,anemia
+>=50k,30,F,50957,4,cancer
+>=50k,59,F,45438,15,pneumonia
+<50k,39,F,22363,3,bronchites
+<50k,79,M,31544,4,cardiac arrest
+>=50k,52,M,38017,2,bronchites
+<50k,79,M,51560,10,anemia
+>=50k,73,F,53070,12,cancer
+>=50k,53,M,44187,13,pneumonia
+<50k,48,F,49243,4,pneumonia
+<50k,65,M,23939,11,cardiac arrest
+>=50k,54,M,50294,6,bronchites
+<50k,78,M,32778,8,cancer
+>=50k,34,M,36309,10,anemia
+>=50k,51,M,39563,5,cancer
+<50k,35,F,22373,10,cardiac arrest
+<50k,32,F,53169,9,bronchites
+>=50k,34,F,30126,6,cancer
+<50k,37,F,52448,1,pneumonia
+>=50k,61,F,51489,3,pneumonia
+>=50k,60,F,35703,15,cardiac arrest
+<50k,38,F,39076,8,bronchites
+<50k,67,M,32492,11,bronchites
+>=50k,31,F,24867,6,anemia
+<50k,34,F,31427,9,diabetes
+>=50k,50,F,22816,15,anemia
+>=50k,38,F,43779,13,cardiac arrest
+<50k,78,F,50723,11,anemia
+<50k,45,M,37799,8,bronchites
+>=50k,45,M,53297,6,cancer
+<50k,41,M,52950,1,pneumonia
+>=50k,30,F,47536,2,diabetes
+>=50k,46,M,24169,1,anemia
+<50k,44,M,46780,3,cardiac arrest
+<50k,31,M,51079,13,cancer
+>=50k,70,M,33190,15,bronchites
+<50k,39,M,33992,1,cancer
+>=50k,31,M,37979,3,anemia
+>=50k,79,M,53022,4,pneumonia
+<50k,80,M,28558,2,bronchites
+<50k,80,M,28745,3,anemia
+>=50k,55,M,25011,14,cancer
+<50k,66,F,29487,3,cardiac arrest
+>=50k,66,F,35957,6,anemia
+>=50k,53,F,23162,10,bronchites
+>=50k,59,M,51594,1,pneumonia
+<50k,52,M,53568,5,diabetes
+>=50k,38,M,31047,6,anemia
+>=50k,37,F,54496,15,cardiac arrest
+<50k,75,F,53965,6,cancer
+<50k,52,F,23179,13,bronchites
+>=50k,41,F,33899,11,diabetes
+<50k,59,F,44559,12,cancer
+>=50k,69,M,22401,14,bronchites
+>=50k,42,M,50812,11,diabetes
+<50k,55,M,24253,15,cancer
+<50k,53,M,33078,12,pneumonia
+>=50k,70,M,52823,12,cardiac arrest
+<50k,57,M,48444,10,bronchites
+>=50k,33,M,53368,1,cardiac arrest
+>=50k,57,M,49544,5,diabetes
+<50k,56,M,26290,9,bronchites
+<50k,74,M,54773,8,anemia
+>=50k,59,M,51268,12,cardiac arrest
+<50k,34,M,33209,15,cancer
+>=50k,60,M,41357,14,bronchites
+>=50k,56,M,25158,9,anemia
+<50k,35,F,41134,1,pneumonia
+<50k,43,F,29723,15,cancer
+>=50k,48,F,45017,13,pneumonia
+<50k,30,F,51801,2,diabetes
+>=50k,30,F,42679,9,anemia
+>=50k,47,F,33580,13,cardiac arrest
+<50k,62,M,41285,10,cancer
+<50k,77,F,52786,5,bronchites
+>=50k,56,F,22282,3,pneumonia
+<50k,66,M,49988,4,bronchites
+>=50k,40,M,41971,14,anemia
+>=50k,52,M,23014,7,cardiac arrest
+<50k,66,M,31634,4,bronchites
+<50k,81,M,43681,10,cardiac arrest
+>=50k,30,M,24993,12,bronchites
+<50k,28,M,27482,4,pneumonia
+>=50k,78,M,53511,6,anemia
+>=50k,75,M,33649,2,cancer
+<50k,40,M,54722,3,cardiac arrest
+<50k,28,M,30822,2,anemia
+>=50k,36,M,27450,4,bronchites
+<50k,64,M,55055,10,anemia
+>=50k,56,M,44798,9,pneumonia
+>=50k,70,M,46831,6,bronchites
+<50k,63,M,49246,3,cardiac arrest
+<50k,76,M,39660,7,anemia
+>=50k,79,M,27970,3,cancer
+<50k,80,F,41210,8,cardiac arrest
+>=50k,65,F,34903,12,cardiac arrest
+>=50k,51,F,27173,2,bronchites
+<50k,53,F,43506,13,pneumonia
+<50k,49,F,22413,15,anemia
+>=50k,41,F,28671,15,bronchites
+<50k,54,M,24327,1,anemia
+>=50k,61,F,54889,14,cancer
+>=50k,31,F,52786,5,pneumonia
+<50k,37,F,30504,6,bronchites
+<50k,27,M,49955,2,cardiac arrest
+>=50k,70,M,26053,7,bronchites
+<50k,29,M,41415,15,anemia
+>=50k,63,F,44304,11,cancer
+>=50k,71,M,41376,14,pneumonia
+<50k,70,F,53741,2,pneumonia
+<50k,38,M,29469,6,cardiac arrest
+>=50k,67,M,22171,10,bronchites
+<50k,40,M,25120,7,cancer
+>=50k,45,M,27163,12,anemia
+>=50k,70,M,47340,2,cancer
+<50k,43,F,26760,5,cardiac arrest
+<50k,37,F,54394,1,bronchites
+>=50k,79,F,30945,9,cancer
+<50k,54,F,33993,12,pneumonia
+>=50k,37,F,45597,3,pneumonia
+>=50k,75,F,23927,4,cardiac arrest
+<50k,64,F,42997,5,bronchites
+<50k,61,M,49743,12,bronchites
+>=50k,78,F,49840,10,anemia
+<50k,66,F,36152,8,diabetes
+>=50k,53,F,41106,13,anemia
+>=50k,67,F,35547,13,cardiac arrest
+<50k,51,F,29478,1,anemia
+<50k,38,M,45777,1,bronchites
+>=50k,63,M,39684,2,cancer
+<50k,74,M,30823,9,pneumonia
+>=50k,34,F,52803,4,diabetes
+>=50k,75,M,25151,11,anemia
+<50k,67,M,37478,4,cardiac arrest
+<50k,58,M,54301,11,cancer
+>=50k,48,M,54540,8,bronchites
+<50k,76,M,36165,5,cancer
+>=50k,72,M,46546,5,anemia
+>=50k,36,M,42721,8,pneumonia
+<50k,78,M,50812,14,bronchites
+<50k,28,M,53152,12,anemia
+>=50k,30,M,49277,6,cancer
+<50k,75,F,38587,10,cardiac arrest
+>=50k,77,F,33948,11,anemia
+>=50k,34,F,26722,3,bronchites
+>=50k,60,M,48677,6,pneumonia
+<50k,64,M,52478,12,diabetes
+>=50k,43,M,31654,3,anemia
+>=50k,81,F,35451,7,cardiac arrest
+<50k,48,F,39639,13,cancer
+<50k,70,F,41663,10,bronchites
+>=50k,54,F,25186,14,diabetes
+<50k,43,F,38187,8,cancer
+>=50k,57,M,34936,3,bronchites
+>=50k,63,M,35656,7,diabetes
+<50k,64,M,36509,10,cancer
+<50k,50,M,49245,15,pneumonia
+>=50k,49,M,31726,14,cardiac arrest
+<50k,37,M,51568,1,bronchites
+>=50k,27,M,38655,2,cardiac arrest
+>=50k,69,M,55078,9,diabetes
+<50k,61,M,30247,4,bronchites
+<50k,59,M,41874,9,anemia
+>=50k,66,M,22202,15,cardiac arrest
+<50k,78,M,43328,13,cancer
+>=50k,43,M,33575,3,bronchites
+>=50k,47,M,47134,9,anemia
+<50k,44,F,52568,10,pneumonia
+<50k,55,F,29381,9,cancer
+>=50k,33,F,31497,2,pneumonia
+<50k,41,F,33888,10,diabetes
+>=50k,45,F,38554,11,anemia
+>=50k,32,F,33601,11,cardiac arrest
+<50k,49,M,48580,11,cancer
+<50k,52,F,29095,1,bronchites
+>=50k,54,F,24652,14,pneumonia
+<50k,77,M,44190,14,bronchites
+>=50k,66,M,51245,13,anemia
+>=50k,46,M,27206,1,cardiac arrest
+<50k,38,M,25657,5,bronchites
+<50k,36,M,50200,10,cardiac arrest
+>=50k,35,M,45071,5,bronchites
+<50k,65,M,24032,8,pneumonia
+>=50k,35,M,51839,10,anemia
+>=50k,46,M,41508,10,cancer
+<50k,30,M,26984,13,cardiac arrest
+<50k,72,M,44673,12,anemia
+>=50k,35,M,27900,13,bronchites
+<50k,57,M,33226,12,anemia
+>=50k,46,M,28929,14,pneumonia
+>=50k,32,M,32704,9,bronchites
+<50k,31,M,24106,6,cardiac arrest
+<50k,78,M,22611,10,anemia
+>=50k,63,M,41681,13,cancer
+<50k,28,F,54407,4,cardiac arrest
+>=50k,70,F,47414,7,cardiac arrest
+>=50k,44,F,47180,12,bronchites
+<50k,33,F,44967,6,pneumonia
+<50k,47,F,33062,15,anemia
+>=50k,56,F,35106,8,bronchites
+<50k,54,M,51171,9,anemia
+>=50k,53,F,39688,5,cancer
+>=50k,51,F,33071,8,pneumonia
+<50k,72,F,34891,12,bronchites
+<50k,64,M,25636,7,cardiac arrest
+>=50k,44,M,42255,14,bronchites
+<50k,70,M,47911,14,anemia
+>=50k,45,F,30205,1,cancer
+>=50k,34,M,33272,11,pneumonia
+<50k,69,F,44202,13,pneumonia
+<50k,34,M,54539,6,cardiac arrest
+>=50k,71,M,25395,7,bronchites
+<50k,70,M,43575,1,cancer
+>=50k,27,M,30956,5,anemia
+>=50k,58,M,36177,14,cancer
+<50k,54,F,54721,15,cardiac arrest
+<50k,39,F,33865,12,bronchites
+>=50k,64,F,24055,7,cancer
+<50k,35,F,40955,6,pneumonia
+>=50k,46,F,32530,7,pneumonia
+>=50k,48,F,51603,14,cardiac arrest
+<50k,49,F,35487,5,bronchites
+<50k,50,M,47843,14,bronchites
+>=50k,34,F,25557,10,anemia
+<50k,34,F,41425,12,diabetes
+>=50k,28,F,52981,10,anemia
+>=50k,71,F,23927,15,cardiac arrest
+<50k,29,F,45808,14,anemia
+<50k,29,M,50406,15,bronchites
+>=50k,41,M,30947,9,cancer
+<50k,74,M,50842,5,pneumonia
+>=50k,67,F,24446,10,diabetes
+>=50k,27,M,46278,4,anemia
+<50k,35,M,26480,12,cardiac arrest
+<50k,37,M,37385,5,cancer
+>=50k,76,M,33646,2,bronchites
+<50k,51,M,26939,15,cancer
+>=50k,75,M,29233,12,anemia
+>=50k,47,M,55209,5,pneumonia
+<50k,71,M,23196,2,bronchites
+<50k,52,M,54659,10,anemia
+>=50k,61,M,23596,10,cancer
+<50k,45,F,29173,15,cardiac arrest
+>=50k,34,F,27725,3,anemia
+>=50k,39,F,35416,6,bronchites
+>=50k,61,M,33018,14,pneumonia
+<50k,32,M,36022,15,diabetes
+>=50k,28,M,44047,12,anemia
+>=50k,35,F,45276,15,cardiac arrest
+<50k,72,F,29968,2,cancer
+<50k,46,F,51296,14,bronchites
+>=50k,46,F,40571,14,diabetes
+<50k,40,F,27390,2,cancer
+>=50k,55,M,31738,5,bronchites
+>=50k,30,M,40035,6,diabetes
+<50k,64,M,30381,6,cancer
+<50k,65,M,43368,15,pneumonia
+>=50k,70,M,22836,12,cardiac arrest
+<50k,77,M,27964,3,bronchites
+>=50k,32,M,54874,11,cardiac arrest
+>=50k,63,M,22910,13,diabetes
+<50k,42,M,41887,15,bronchites
+<50k,80,M,39137,3,anemia
+>=50k,72,M,46480,1,cardiac arrest
+<50k,73,M,50596,7,cancer
+>=50k,75,M,35301,14,bronchites
+>=50k,68,M,35257,15,anemia
+<50k,33,F,43288,3,pneumonia
+<50k,54,F,30239,14,cancer
+>=50k,34,F,26398,10,pneumonia
+<50k,74,F,44078,1,diabetes
+>=50k,43,F,25822,9,anemia
+>=50k,39,F,29558,15,cardiac arrest
+<50k,43,M,50873,8,cancer
+<50k,62,F,30297,7,bronchites
+>=50k,29,F,36673,4,pneumonia
+<50k,33,M,34719,2,bronchites
+>=50k,78,M,43444,14,anemia
+>=50k,68,M,45615,1,cardiac arrest
+<50k,53,M,52988,3,bronchites
+<50k,30,M,54208,3,cardiac arrest
+>=50k,41,M,25325,10,bronchites
+<50k,55,M,29817,4,pneumonia
+>=50k,74,M,52374,4,anemia
+>=50k,45,M,32180,11,cancer
+<50k,41,M,35954,8,cardiac arrest
+<50k,77,M,47775,2,anemia
+>=50k,55,M,36310,14,bronchites
+<50k,30,M,34152,15,anemia
+>=50k,70,M,26027,5,pneumonia
+>=50k,54,M,22207,14,bronchites
+<50k,28,M,29561,14,cardiac arrest
+<50k,51,M,37107,11,anemia
+>=50k,54,M,52044,6,cancer
+<50k,76,F,42148,4,cardiac arrest
+>=50k,28,F,27055,8,cardiac arrest
+>=50k,36,F,44267,3,bronchites
+<50k,32,F,43395,8,pneumonia
+<50k,57,F,23536,3,anemia
+>=50k,66,F,38817,15,bronchites
+<50k,78,M,52283,1,anemia
+>=50k,78,F,47186,6,cancer
+>=50k,42,F,38670,10,pneumonia
+<50k,37,F,26863,11,bronchites
+<50k,79,M,42555,5,cardiac arrest
+>=50k,63,M,22619,15,bronchites
+<50k,56,M,48334,14,anemia
+>=50k,81,F,52317,6,cancer
+>=50k,58,M,36952,12,pneumonia
+<50k,53,F,38828,2,pneumonia
+<50k,36,M,38696,6,cardiac arrest
+>=50k,68,M,47038,2,bronchites
+<50k,31,M,43869,10,cancer
+>=50k,32,M,28728,9,anemia
+>=50k,43,M,47166,14,cancer
+<50k,52,F,25211,4,cardiac arrest
+<50k,63,F,45737,5,bronchites
+>=50k,57,F,42172,6,cancer
+<50k,49,F,36084,5,pneumonia
+>=50k,74,F,25260,12,pneumonia
+>=50k,54,F,50210,12,cardiac arrest
+<50k,58,F,35912,6,bronchites
+<50k,56,M,39179,6,bronchites
+>=50k,77,F,46624,10,anemia
+<50k,58,F,36324,2,diabetes
+>=50k,60,F,22568,14,anemia
+>=50k,47,F,49045,4,cardiac arrest
+<50k,59,F,35679,6,anemia
+<50k,35,M,54751,14,bronchites
+>=50k,66,M,38249,13,cancer
+<50k,49,M,32338,3,pneumonia
+>=50k,39,F,37728,6,diabetes
+>=50k,50,M,32017,4,anemia
+<50k,77,M,30333,15,cardiac arrest
+<50k,29,M,47779,8,cancer
+>=50k,57,M,47758,10,bronchites
+<50k,49,M,24836,14,cancer
+>=50k,57,M,44089,4,anemia
+>=50k,56,M,33797,10,pneumonia
+<50k,43,M,48546,14,bronchites
+<50k,76,M,32783,1,anemia
+>=50k,81,M,27019,7,cancer
+<50k,61,F,33458,10,cardiac arrest
+>=50k,65,F,48725,2,anemia
+>=50k,59,F,31649,10,bronchites
+>=50k,62,M,29585,4,pneumonia
+<50k,54,M,41488,4,diabetes
+>=50k,63,M,23770,9,anemia
+>=50k,34,F,24332,8,cardiac arrest
+<50k,67,F,45913,14,cancer
+<50k,28,F,41808,6,bronchites
+>=50k,74,F,25977,1,diabetes
+<50k,55,F,54721,1,cancer
+>=50k,29,M,40095,13,bronchites
+>=50k,43,M,23766,8,diabetes
+<50k,38,M,25389,12,cancer
+<50k,73,M,27581,12,pneumonia
+>=50k,81,M,22184,14,cardiac arrest
+<50k,63,M,44832,6,bronchites
+>=50k,34,M,35605,5,cardiac arrest
+>=50k,46,M,34641,11,diabetes
+<50k,57,M,39141,7,bronchites
+<50k,35,M,40787,11,anemia
+>=50k,68,M,33585,15,cardiac arrest
+<50k,68,M,33428,12,cancer
+>=50k,52,M,24981,8,bronchites
+>=50k,57,M,33165,11,anemia
+<50k,42,F,53844,4,pneumonia
+<50k,55,F,40650,9,cancer
+>=50k,66,F,53002,6,pneumonia
+<50k,34,F,48892,15,diabetes
+>=50k,52,F,30148,13,anemia
+>=50k,70,F,29551,3,cardiac arrest
+<50k,67,M,26976,1,cancer
+<50k,64,F,38785,1,bronchites
+>=50k,75,F,46778,2,pneumonia
+<50k,60,M,53313,6,bronchites
+>=50k,45,M,48309,4,anemia
+>=50k,48,M,27424,13,cardiac arrest
+<50k,58,M,31170,14,bronchites
+<50k,77,M,40250,3,cardiac arrest
+>=50k,39,M,28070,6,bronchites
+<50k,55,M,48631,15,pneumonia
+>=50k,74,M,49449,12,anemia
+>=50k,47,M,43061,8,cancer
+<50k,31,M,31233,2,cardiac arrest
+<50k,57,M,39860,1,anemia
+>=50k,28,M,36187,15,bronchites
+<50k,62,M,45380,6,anemia
+>=50k,50,M,46982,2,pneumonia
+>=50k,68,M,46815,1,bronchites
+<50k,27,M,28766,4,cardiac arrest
+<50k,75,M,27003,9,anemia
+>=50k,69,M,40796,9,cancer
+<50k,80,F,25552,10,cardiac arrest
+>=50k,36,F,39516,12,cardiac arrest
+>=50k,50,F,32165,13,bronchites
+<50k,66,F,29853,6,pneumonia
+<50k,40,F,34996,1,anemia
+>=50k,61,F,39933,15,bronchites
+<50k,34,M,41759,4,anemia
+>=50k,45,F,47551,7,cancer
+>=50k,38,F,49472,5,pneumonia
+<50k,27,F,36913,6,bronchites
+<50k,50,M,24065,1,cardiac arrest
+>=50k,33,M,29736,6,bronchites
+<50k,61,M,49016,3,anemia
+>=50k,77,F,38232,10,cancer
+>=50k,51,M,49995,3,pneumonia
+<50k,31,F,40605,8,pneumonia
+<50k,46,M,43461,11,cardiac arrest
+>=50k,58,M,35883,15,bronchites
+<50k,49,M,42169,5,cancer
+>=50k,44,M,26622,1,anemia
+>=50k,41,M,48473,9,cancer
+<50k,79,F,34177,2,cardiac arrest
+<50k,41,F,28862,6,bronchites
+>=50k,57,F,47929,3,cancer
+<50k,50,F,44390,8,pneumonia
+>=50k,60,F,36908,12,pneumonia
+>=50k,31,F,28938,1,cardiac arrest
+<50k,80,F,43259,10,bronchites
+<50k,56,M,31782,3,bronchites
+>=50k,28,F,36954,13,anemia
+<50k,33,F,23079,5,diabetes
+>=50k,63,F,32641,15,anemia
+>=50k,71,F,33574,3,cardiac arrest
+<50k,54,F,26552,6,anemia
+<50k,40,M,39003,14,bronchites
+>=50k,77,M,30756,14,cancer
+<50k,29,M,48962,14,pneumonia
+>=50k,50,F,36645,4,diabetes
+>=50k,80,M,52384,1,anemia
+<50k,77,M,24708,5,cardiac arrest
+<50k,79,M,44949,4,cancer
+>=50k,33,M,53503,8,bronchites
+<50k,29,M,45184,10,cancer
+>=50k,50,M,32801,1,anemia
+>=50k,80,M,36081,7,pneumonia
+<50k,59,M,27031,11,bronchites
+<50k,59,M,48783,15,anemia
+>=50k,43,M,33603,3,cancer
+<50k,32,F,41600,2,cardiac arrest
+>=50k,49,F,42964,9,anemia
+>=50k,52,F,52472,6,bronchites
+>=50k,63,M,41098,8,pneumonia
+<50k,31,M,26501,5,diabetes
+>=50k,42,M,47145,3,anemia
+>=50k,61,F,25016,15,cardiac arrest
+<50k,78,F,35388,10,cancer
+<50k,59,F,50484,15,bronchites
+>=50k,57,F,37600,1,diabetes
+<50k,40,F,38915,8,cancer
+>=50k,74,M,41596,10,bronchites
+>=50k,35,M,29723,12,diabetes
+<50k,33,M,45415,5,cancer
+<50k,57,M,50500,14,pneumonia
+>=50k,32,M,40198,10,cardiac arrest
+<50k,63,M,33351,1,bronchites
+>=50k,69,M,52844,6,cardiac arrest
+>=50k,28,M,34715,15,diabetes
+<50k,30,M,44721,10,bronchites
+<50k,30,M,49093,4,anemia
+>=50k,34,M,54185,14,cardiac arrest
+<50k,47,M,48707,7,cancer
+>=50k,77,M,37158,11,bronchites
+>=50k,41,M,54431,4,anemia
+<50k,73,F,36735,7,pneumonia
+<50k,75,F,27148,5,cancer
+>=50k,43,F,34891,15,pneumonia
+<50k,33,F,43748,14,diabetes
+>=50k,30,F,34844,11,anemia
+>=50k,78,F,42129,15,cardiac arrest
+<50k,70,M,30848,15,cancer
+<50k,65,F,28617,12,bronchites
+>=50k,49,F,23549,13,pneumonia
+<50k,33,M,24460,15,bronchites
+>=50k,54,M,25330,3,anemia
+>=50k,44,M,34947,3,cardiac arrest
+<50k,46,M,22218,3,bronchites
+<50k,79,M,50607,7,cardiac arrest
+>=50k,29,M,33398,12,bronchites
+<50k,29,M,49529,11,pneumonia
+>=50k,40,M,26390,2,anemia
+>=50k,73,M,43756,13,cancer
+<50k,43,M,49730,15,cardiac arrest
+<50k,76,M,47043,10,anemia
+>=50k,44,M,43250,6,bronchites
+<50k,61,M,40469,9,anemia
+>=50k,35,M,53470,2,pneumonia
+>=50k,53,M,53336,8,bronchites
+<50k,46,M,40519,14,cardiac arrest
+<50k,41,M,42929,12,anemia
+>=50k,39,M,35433,6,cancer
+<50k,47,F,26834,9,cardiac arrest
+>=50k,71,F,54583,10,cardiac arrest
+>=50k,43,F,27070,14,bronchites
+<50k,40,F,24622,5,pneumonia
+<50k,35,F,48334,3,anemia
+>=50k,64,F,45173,12,bronchites
+<50k,54,M,35729,5,anemia
+>=50k,48,F,52879,14,cancer
+>=50k,65,F,45613,11,pneumonia
+<50k,39,F,38395,15,bronchites
+<50k,31,M,23242,11,cardiac arrest
+>=50k,66,M,34859,6,bronchites
+<50k,55,M,22362,11,anemia
+>=50k,55,F,36351,3,cancer
+>=50k,47,M,42329,1,pneumonia
+<50k,28,F,37569,7,pneumonia
+<50k,44,M,37487,11,cardiac arrest
+>=50k,39,M,41403,5,bronchites
+<50k,62,M,54710,14,cancer
+>=50k,73,M,30280,11,anemia
+>=50k,80,M,44441,12,cancer
+<50k,66,F,51779,7,cardiac arrest
+<50k,79,F,41304,13,bronchites
+>=50k,78,F,54500,12,cancer
+<50k,56,F,49879,13,pneumonia
+>=50k,76,F,35572,13,pneumonia
+>=50k,39,F,37869,2,cardiac arrest
+<50k,36,F,44158,3,bronchites
+<50k,71,M,54117,8,bronchites
+>=50k,59,F,30356,3,anemia
+<50k,45,F,33755,12,diabetes
+>=50k,73,F,43171,6,anemia
+>=50k,49,F,35838,6,cardiac arrest
+<50k,77,F,38407,4,anemia
+<50k,68,M,27120,7,bronchites
+>=50k,50,M,32072,14,cancer
+<50k,78,M,32751,6,pneumonia
+>=50k,50,F,33022,13,diabetes
+>=50k,30,M,30550,11,anemia
+<50k,58,M,35154,15,cardiac arrest
+<50k,36,M,52817,4,cancer
+>=50k,28,M,41932,10,bronchites
+<50k,43,M,43807,6,cancer
+>=50k,76,M,25917,5,anemia
+>=50k,51,M,41049,9,pneumonia
+<50k,75,M,42844,2,bronchites
+<50k,30,M,33365,9,anemia
+>=50k,55,M,52023,14,cancer
+<50k,42,F,30863,9,cardiac arrest
+>=50k,61,F,23248,11,anemia
+>=50k,81,F,24025,2,bronchites
+>=50k,64,M,49874,4,pneumonia
+<50k,78,M,44739,15,diabetes
+>=50k,43,M,46633,6,anemia
+>=50k,67,F,42130,10,cardiac arrest
+<50k,61,F,45886,15,cancer
+<50k,38,F,47617,2,bronchites
+>=50k,31,F,48494,11,diabetes
+<50k,29,F,54032,11,cancer
+>=50k,60,M,51280,12,bronchites
+>=50k,75,M,25780,9,diabetes
+<50k,37,M,48511,10,cancer
+<50k,28,M,34646,13,pneumonia
+>=50k,36,M,25574,1,cardiac arrest
+<50k,53,M,26131,14,bronchites
+>=50k,56,M,24252,10,cardiac arrest
+>=50k,45,M,51985,10,diabetes
+<50k,31,M,55047,7,bronchites
+<50k,71,M,35900,12,anemia
+>=50k,74,M,28984,15,cardiac arrest
+<50k,64,M,38720,9,cancer
+>=50k,60,M,23518,7,bronchites
+>=50k,61,M,35826,15,anemia
+<50k,50,F,39961,2,pneumonia
+<50k,56,F,25508,9,cancer
+>=50k,68,F,43920,5,pneumonia
+<50k,29,F,51421,12,diabetes
+>=50k,77,F,24311,4,anemia
+>=50k,76,F,41388,6,cardiac arrest
+<50k,73,M,26000,10,cancer
+<50k,70,F,40234,15,bronchites
+>=50k,76,F,51829,3,pneumonia
+<50k,62,M,53837,7,bronchites
+>=50k,30,M,24665,3,anemia
+>=50k,64,M,51729,10,cardiac arrest
+<50k,47,M,53398,12,bronchites
+<50k,58,M,45673,2,cardiac arrest
+>=50k,55,M,42726,3,bronchites
+<50k,74,M,43219,7,pneumonia
+>=50k,72,M,51650,6,anemia
+>=50k,37,M,53013,6,cancer
+<50k,27,M,50126,9,cardiac arrest
+<50k,39,M,28126,2,anemia
+>=50k,42,M,32826,8,bronchites
+<50k,50,M,37621,1,anemia
+>=50k,54,M,37301,14,pneumonia
+>=50k,27,M,41117,7,bronchites
+<50k,34,M,46253,12,cardiac arrest
+<50k,80,M,40072,10,anemia
+>=50k,78,M,24765,6,cancer
+<50k,54,F,41388,13,cardiac arrest
+>=50k,69,F,29889,1,cardiac arrest
+>=50k,48,F,49586,8,bronchites
+<50k,57,F,33181,15,pneumonia
+<50k,58,F,51984,1,anemia
+>=50k,49,F,54593,3,bronchites
+<50k,66,M,24270,8,anemia
+>=50k,71,F,23754,7,cancer
+>=50k,75,F,22262,11,pneumonia
+<50k,33,F,37685,1,bronchites
+<50k,69,M,43581,5,cardiac arrest
+>=50k,72,M,34485,1,bronchites
+<50k,58,M,42999,8,anemia
+>=50k,33,F,36810,1,cancer
+>=50k,28,M,44075,7,pneumonia
+<50k,59,F,25658,1,pneumonia
+<50k,40,M,36589,4,cardiac arrest
+>=50k,42,M,40686,9,bronchites
+<50k,66,M,34480,6,cancer
+>=50k,66,M,46276,5,anemia
+>=50k,60,M,47955,1,cancer
+<50k,31,F,53121,9,cardiac arrest
+<50k,52,F,32883,1,bronchites
+>=50k,31,F,39014,2,cancer
+<50k,63,F,41468,5,pneumonia
+>=50k,55,F,25711,4,pneumonia
+>=50k,75,F,52195,10,cardiac arrest
+<50k,31,F,39497,9,bronchites
+<50k,56,M,30523,1,bronchites
+>=50k,65,F,24714,6,anemia
+<50k,54,F,47883,11,diabetes
+>=50k,41,F,32088,1,anemia
+>=50k,81,F,50230,4,cardiac arrest
+<50k,70,F,38135,1,anemia
+<50k,59,M,34018,5,bronchites
+>=50k,75,M,23802,5,cancer
+<50k,40,M,53542,10,pneumonia
+>=50k,29,F,39996,5,diabetes
+>=50k,31,M,40903,6,anemia
+<50k,76,M,22662,12,cardiac arrest
+<50k,61,M,52620,8,cancer
+>=50k,81,M,53347,6,bronchites
+<50k,70,M,47257,3,cancer
+>=50k,50,M,51104,7,anemia
+>=50k,81,M,43237,13,pneumonia
+<50k,30,M,23235,10,bronchites
+<50k,51,M,28612,2,anemia
+>=50k,75,M,52197,11,cancer
+<50k,39,F,34826,7,cardiac arrest
+>=50k,64,F,55215,2,anemia
+>=50k,46,F,24377,3,bronchites
+>=50k,65,M,32631,8,pneumonia
+<50k,44,M,24494,4,diabetes
+>=50k,43,M,43022,1,anemia
+>=50k,58,F,25556,6,cardiac arrest
+<50k,61,F,23748,6,cancer
+<50k,28,F,22373,2,bronchites
+>=50k,65,F,22820,7,diabetes
+<50k,63,F,44374,15,cancer
+>=50k,64,M,33067,2,bronchites
+>=50k,55,M,43623,13,diabetes
+<50k,49,M,22508,1,cancer
+<50k,53,M,47714,4,pneumonia
+>=50k,49,M,28221,15,cardiac arrest
+<50k,66,M,45012,12,bronchites
+>=50k,40,M,30986,3,cardiac arrest
+>=50k,44,M,35293,14,diabetes
+<50k,51,M,35813,7,bronchites
+<50k,52,M,44058,14,anemia
+>=50k,58,M,22367,6,cardiac arrest
+<50k,60,M,35923,6,cancer
+>=50k,34,M,34743,3,bronchites
+>=50k,76,M,48406,10,anemia
+<50k,78,F,48167,12,pneumonia
+<50k,56,F,52188,14,cancer
+>=50k,48,F,39018,1,pneumonia
+<50k,34,F,29658,12,diabetes
+>=50k,58,F,29864,8,anemia
+>=50k,55,F,48849,11,cardiac arrest
+<50k,80,M,52600,9,cancer
+<50k,35,F,45437,3,bronchites
+>=50k,70,F,42261,6,pneumonia
+<50k,72,M,49343,8,bronchites
+>=50k,77,M,28033,10,anemia
+>=50k,27,M,28689,9,cardiac arrest
+<50k,40,M,50585,5,bronchites
+<50k,61,M,52108,1,cardiac arrest
+>=50k,27,M,24560,4,bronchites
+<50k,35,M,54678,2,pneumonia
+>=50k,31,M,27615,3,anemia
+>=50k,74,M,22643,9,cancer
+<50k,81,M,23868,7,cardiac arrest
+<50k,74,M,27258,13,anemia
+>=50k,33,M,31870,13,bronchites
+<50k,65,M,54009,9,anemia
+>=50k,39,M,36021,6,pneumonia
+>=50k,76,M,45930,6,bronchites
+<50k,28,M,33668,14,cardiac arrest
+<50k,50,M,41601,4,anemia
+>=50k,62,M,41147,2,cancer
+<50k,62,F,42427,12,cardiac arrest
+>=50k,49,F,51998,6,cardiac arrest
+>=50k,67,F,22120,9,bronchites
+<50k,81,F,33766,3,pneumonia
+<50k,69,F,40547,10,anemia
+>=50k,55,F,32990,15,bronchites
+<50k,33,M,30922,10,anemia
+>=50k,31,F,48855,13,cancer
+>=50k,73,F,25984,9,pneumonia
+<50k,39,F,33676,7,bronchites
+<50k,71,M,40421,15,cardiac arrest
+>=50k,66,M,22967,9,bronchites
+<50k,37,M,24412,6,anemia
+>=50k,78,F,31159,11,cancer
+>=50k,81,M,33733,8,pneumonia
+<50k,74,F,51545,2,pneumonia
+<50k,46,M,23011,3,cardiac arrest
+>=50k,42,M,31606,2,bronchites
+<50k,66,M,34084,5,cancer
+>=50k,54,M,49299,12,anemia
+>=50k,51,M,38795,3,cancer
+<50k,42,F,22743,12,cardiac arrest
+<50k,42,F,30977,4,bronchites
+>=50k,36,F,23296,4,cancer
+<50k,37,F,33514,9,pneumonia
+>=50k,62,F,29980,1,pneumonia
+>=50k,29,F,47948,7,cardiac arrest
+<50k,40,F,48434,4,bronchites
+<50k,31,M,34853,7,bronchites
+>=50k,45,F,42630,15,anemia
+<50k,52,F,45417,2,diabetes
+>=50k,49,F,25834,10,anemia
+>=50k,43,F,40028,4,cardiac arrest
+<50k,62,F,41584,6,anemia
+<50k,41,M,40630,14,bronchites
+>=50k,34,M,50588,14,cancer
+<50k,80,M,51466,7,pneumonia
+>=50k,43,F,25880,3,diabetes
+>=50k,40,M,32462,5,anemia
+<50k,50,M,35955,12,cardiac arrest
+<50k,80,M,46172,7,cancer
+>=50k,62,M,25994,8,bronchites
+<50k,73,M,41182,1,cancer
+>=50k,58,M,30902,5,anemia
+>=50k,47,M,54500,6,pneumonia
+<50k,36,M,37480,12,bronchites
+<50k,73,M,33954,7,anemia
+>=50k,61,M,47635,3,cancer
+<50k,74,F,54316,12,cardiac arrest
+>=50k,36,F,32721,15,anemia
+>=50k,58,F,22116,9,bronchites
+>=50k,66,M,32005,2,pneumonia
+<50k,73,M,22774,2,diabetes
+>=50k,28,M,53178,14,anemia
+>=50k,58,F,46469,1,cardiac arrest
+<50k,76,F,32316,12,cancer
+<50k,78,F,48655,5,bronchites
+>=50k,66,F,32176,15,diabetes
+<50k,54,F,43951,3,cancer
+>=50k,78,M,37583,12,bronchites
+>=50k,73,M,42012,7,diabetes
+<50k,27,M,25741,11,cancer
+<50k,69,M,54268,10,pneumonia
+>=50k,28,M,23700,2,cardiac arrest
+<50k,56,M,30608,6,bronchites
+>=50k,37,M,24429,10,cardiac arrest
+>=50k,33,M,37881,15,diabetes
+<50k,50,M,30425,13,bronchites
+<50k,60,M,48827,3,anemia
+>=50k,81,M,31358,2,cardiac arrest
+<50k,57,M,48466,4,cancer
+>=50k,35,M,33820,5,bronchites
+>=50k,42,M,37859,6,anemia
+<50k,75,F,53644,13,pneumonia
+<50k,29,F,35348,7,cancer
+>=50k,51,F,42242,15,pneumonia
+<50k,38,F,24353,13,diabetes
+>=50k,51,F,27634,8,anemia
+>=50k,39,F,29847,15,cardiac arrest
+<50k,64,M,33518,6,cancer
+<50k,48,F,41077,14,bronchites
+>=50k,71,F,39727,12,pneumonia
+<50k,74,M,27148,6,bronchites
+>=50k,68,M,53366,15,anemia
+>=50k,64,M,30627,4,cardiac arrest
+<50k,73,M,33697,14,bronchites
+<50k,36,M,29288,1,cardiac arrest
+>=50k,77,M,35320,1,bronchites
+<50k,41,M,34334,12,pneumonia
+>=50k,33,M,46250,8,anemia
+>=50k,81,M,50048,14,cancer
+<50k,38,M,47146,14,cardiac arrest
+<50k,63,M,25906,10,anemia
+>=50k,35,M,40198,7,bronchites
+<50k,33,M,28922,13,anemia
+>=50k,63,M,51200,10,pneumonia
+>=50k,46,M,25778,12,bronchites
+<50k,49,M,32472,2,cardiac arrest
+<50k,41,M,43728,4,anemia
+>=50k,80,M,23735,3,cancer
+<50k,60,F,50968,11,cardiac arrest
+>=50k,63,F,45880,4,cardiac arrest
+>=50k,52,F,22272,7,bronchites
+<50k,49,F,27178,15,pneumonia
+<50k,77,F,46455,3,anemia
+>=50k,53,F,49438,4,bronchites
+<50k,62,M,49791,14,anemia
+>=50k,53,F,26613,7,cancer
+>=50k,31,F,35860,11,pneumonia
+<50k,50,F,37642,5,bronchites
+<50k,77,M,45426,11,cardiac arrest
+>=50k,44,M,34399,12,bronchites
+<50k,68,M,22153,10,anemia
+>=50k,37,F,30246,11,cancer
+>=50k,40,M,41363,12,pneumonia
+<50k,54,F,38969,1,pneumonia
+<50k,40,M,49964,12,cardiac arrest
+>=50k,64,M,26625,15,bronchites
+<50k,27,M,30211,3,cancer
+>=50k,64,M,49141,6,anemia
+>=50k,65,M,34569,11,cancer
+<50k,67,F,25134,15,cardiac arrest
+<50k,52,F,41467,13,bronchites
+>=50k,34,F,41794,14,cancer
+<50k,80,F,49652,13,pneumonia
+>=50k,65,F,28448,3,pneumonia
+>=50k,70,F,23195,15,cardiac arrest
+<50k,47,F,46222,1,bronchites
+<50k,32,M,37360,3,bronchites
+>=50k,53,F,34720,6,anemia
+<50k,48,F,36428,15,diabetes
+>=50k,56,F,46502,4,anemia
+>=50k,31,F,52414,10,cardiac arrest
+<50k,37,F,27585,9,anemia
+<50k,60,M,50333,7,bronchites
+>=50k,53,M,26373,6,cancer
+<50k,50,M,32036,5,pneumonia
+>=50k,37,F,36439,8,diabetes
+>=50k,59,M,23885,14,anemia
+<50k,40,M,36179,2,cardiac arrest
+<50k,40,M,35722,8,cancer
+>=50k,35,M,32651,6,bronchites
+<50k,65,M,27850,5,cancer
+>=50k,54,M,40605,10,anemia
+>=50k,27,M,51989,12,pneumonia
+<50k,31,M,36920,11,bronchites
+<50k,60,M,44703,7,anemia
+>=50k,56,M,51422,13,cancer
+<50k,34,F,48514,7,cardiac arrest
+>=50k,75,F,25620,5,anemia
+>=50k,76,F,35157,2,bronchites
+>=50k,67,M,49285,6,pneumonia
+<50k,80,M,41261,7,diabetes
+>=50k,81,M,39033,4,anemia
+>=50k,34,F,39956,12,cardiac arrest
+<50k,31,F,39253,3,cancer
+<50k,81,F,41523,3,bronchites
+>=50k,74,F,43470,7,diabetes
+<50k,69,F,27527,12,cancer
+>=50k,58,M,52130,12,bronchites
+>=50k,37,M,38570,10,diabetes
+<50k,40,M,29791,2,cancer
+<50k,71,M,33598,15,pneumonia
+>=50k,55,M,46663,12,cardiac arrest
+<50k,38,M,29117,13,bronchites
+>=50k,57,M,36898,9,cardiac arrest
+>=50k,53,M,42125,5,diabetes
+<50k,60,M,24035,14,bronchites
+<50k,27,M,49682,10,anemia
+>=50k,74,M,39605,9,cardiac arrest
+<50k,38,M,49317,3,cancer
+>=50k,38,M,26764,15,bronchites
+>=50k,74,M,26048,15,anemia
+<50k,33,F,54806,12,pneumonia
+<50k,54,F,22835,2,cancer
+>=50k,69,F,46635,13,pneumonia
+<50k,81,F,34842,13,diabetes
+>=50k,60,F,42194,4,anemia
+>=50k,48,F,51702,1,cardiac arrest
+<50k,47,M,26912,8,cancer
+<50k,42,F,39720,11,bronchites
+>=50k,60,F,27263,3,pneumonia
+<50k,61,M,35052,13,bronchites
+>=50k,30,M,34130,14,anemia
+>=50k,34,M,35863,13,cardiac arrest
+<50k,47,M,43291,5,bronchites
+<50k,50,M,54652,11,cardiac arrest
+>=50k,52,M,41607,8,bronchites
+<50k,68,M,39991,14,pneumonia
+>=50k,78,M,49161,14,anemia
+>=50k,63,M,47680,5,cancer
+<50k,38,M,33197,5,cardiac arrest
+<50k,62,M,26981,6,anemia
+>=50k,34,M,29828,10,bronchites
+<50k,27,M,29535,9,anemia
+>=50k,58,M,45654,4,pneumonia
+>=50k,47,M,31780,6,bronchites
+<50k,37,M,39295,6,cardiac arrest
+<50k,52,M,47076,1,anemia
+>=50k,34,M,39098,6,cancer
+<50k,33,F,50906,7,cardiac arrest
+>=50k,47,F,23312,7,cardiac arrest
+>=50k,68,F,44920,3,bronchites
+<50k,49,F,32293,14,pneumonia
+<50k,72,F,50397,8,anemia
+>=50k,59,F,51533,10,bronchites
+<50k,27,M,22316,12,anemia
+>=50k,27,F,28639,8,cancer
+>=50k,64,F,48497,12,pneumonia
+<50k,71,F,49346,12,bronchites
+<50k,49,M,33394,14,cardiac arrest
+>=50k,74,M,31089,6,bronchites
+<50k,54,M,25792,4,anemia
+>=50k,28,F,45923,9,cancer
+>=50k,37,M,25239,11,pneumonia
+<50k,79,F,23524,1,pneumonia
+<50k,78,M,48822,13,cardiac arrest
+>=50k,55,M,45599,4,bronchites
+<50k,59,M,34862,11,cancer
+>=50k,46,M,54243,3,anemia
+>=50k,72,M,40159,12,cancer
+<50k,30,F,34696,13,cardiac arrest
+<50k,56,F,48190,8,bronchites
+>=50k,73,F,23833,12,cancer
+<50k,40,F,30399,5,pneumonia
+>=50k,45,F,38617,14,pneumonia
+>=50k,43,F,52008,2,cardiac arrest
+<50k,73,F,52203,8,bronchites
+<50k,59,M,50304,9,bronchites
+>=50k,76,F,29342,12,anemia
+<50k,42,F,33665,15,diabetes
+>=50k,33,F,51743,4,anemia
+>=50k,64,F,23559,8,cardiac arrest
+<50k,37,F,31435,14,anemia
+<50k,66,M,47614,1,bronchites
+>=50k,58,M,44485,11,cancer
+<50k,81,M,49062,5,pneumonia
+>=50k,71,F,50824,9,diabetes
+>=50k,49,M,49929,4,anemia
+<50k,65,M,30016,1,cardiac arrest
+<50k,43,M,52802,12,cancer
+>=50k,38,M,50240,13,bronchites
+<50k,35,M,54391,15,cancer
+>=50k,68,M,26403,9,anemia
+>=50k,53,M,44559,3,pneumonia
+<50k,28,M,53718,10,bronchites
+<50k,30,M,39896,5,anemia
+>=50k,36,M,41541,11,cancer
+<50k,73,F,51496,4,cardiac arrest
+>=50k,42,F,32374,6,anemia
+>=50k,38,F,28126,14,bronchites
+>=50k,68,M,51597,7,pneumonia
+<50k,65,M,28191,15,diabetes
+>=50k,29,M,41103,12,anemia
+>=50k,58,F,36075,12,cardiac arrest
+<50k,37,F,51015,4,cancer
+<50k,56,F,23653,9,bronchites
+>=50k,72,F,25221,15,diabetes
+<50k,46,F,45513,2,cancer
+>=50k,72,M,44776,13,bronchites
+>=50k,42,M,31425,15,diabetes
+<50k,44,M,29390,13,cancer
+<50k,49,M,30588,6,pneumonia
+>=50k,75,M,26786,5,cardiac arrest
+<50k,48,M,22353,2,bronchites
+>=50k,65,M,32809,14,cardiac arrest
+>=50k,43,M,24192,5,diabetes
+<50k,68,M,46081,11,bronchites
+<50k,80,M,37156,7,anemia
+>=50k,74,M,36414,10,cardiac arrest
+<50k,32,M,39412,12,cancer
+>=50k,71,M,39704,15,bronchites
+>=50k,34,M,45084,15,anemia
+<50k,44,F,35914,6,pneumonia
+<50k,61,F,51430,9,cancer
+>=50k,72,F,54872,4,pneumonia
+<50k,27,F,45659,13,diabetes
+>=50k,66,F,32912,1,anemia
+>=50k,71,F,43374,8,cardiac arrest
+<50k,66,M,44315,5,cancer
+<50k,68,F,46687,5,bronchites
+>=50k,68,F,51457,2,pneumonia
+<50k,39,M,41364,5,bronchites
+>=50k,46,M,54450,14,anemia
+>=50k,51,M,27149,10,cardiac arrest
+<50k,67,M,45585,11,bronchites
+<50k,66,M,24943,14,cardiac arrest
+>=50k,47,M,53486,2,bronchites
+<50k,37,M,53324,8,pneumonia
+>=50k,59,M,45728,6,anemia
+>=50k,51,M,39841,7,cancer
+<50k,39,M,54339,15,cardiac arrest
+<50k,66,M,27104,4,anemia
+>=50k,36,M,47421,11,bronchites
+<50k,53,M,35375,2,anemia
+>=50k,39,M,44123,1,pneumonia
+>=50k,43,M,33405,10,bronchites
+<50k,41,M,42557,9,cardiac arrest
+<50k,62,M,23847,5,anemia
+>=50k,77,M,33298,2,cancer
+<50k,43,F,25501,14,cardiac arrest
+>=50k,62,F,30796,4,cardiac arrest
+>=50k,51,F,45869,1,bronchites
+<50k,34,F,53367,5,pneumonia
+<50k,28,F,47758,1,anemia
+>=50k,34,F,46652,13,bronchites
+<50k,29,M,33227,6,anemia
+>=50k,38,F,40922,6,cancer
+>=50k,73,F,43366,1,pneumonia
+<50k,38,F,29087,2,bronchites
+<50k,61,M,33395,1,cardiac arrest
+>=50k,61,M,35463,3,bronchites
+<50k,74,M,38940,12,anemia
+>=50k,57,F,22626,14,cancer
+>=50k,54,M,37953,4,pneumonia
+<50k,32,F,53445,7,pneumonia
+<50k,70,M,25874,12,cardiac arrest
+>=50k,75,M,27557,6,bronchites
+<50k,68,M,45023,12,cancer
+>=50k,60,M,44808,14,anemia
+>=50k,70,M,27899,6,cancer
+<50k,40,F,24659,3,cardiac arrest
+<50k,56,F,33977,6,bronchites
+>=50k,68,F,44963,5,cancer
+<50k,42,F,26718,3,pneumonia
+>=50k,62,F,33096,3,pneumonia
+>=50k,42,F,29177,1,cardiac arrest
+<50k,27,F,41606,2,bronchites
+<50k,50,M,44145,7,bronchites
+>=50k,61,F,45827,3,anemia
+<50k,52,F,40432,4,diabetes
+>=50k,36,F,51017,2,anemia
+>=50k,65,F,50414,15,cardiac arrest
+<50k,72,F,22183,10,anemia
+<50k,45,M,33159,1,bronchites
+>=50k,45,M,54449,7,cancer
+<50k,52,M,35583,12,pneumonia
+>=50k,27,F,41398,8,diabetes
+>=50k,47,M,31009,3,anemia
+<50k,34,M,40911,11,cardiac arrest
+<50k,76,M,26977,5,cancer
+>=50k,30,M,38013,1,bronchites
+<50k,48,M,29786,12,cancer
+>=50k,34,M,28171,4,anemia
+>=50k,64,M,23544,1,pneumonia
+<50k,71,M,38057,11,bronchites
+<50k,64,M,35616,2,anemia
+>=50k,29,M,37264,11,cancer
+<50k,28,F,40319,13,cardiac arrest
+>=50k,81,F,35309,6,anemia
+>=50k,66,F,45420,11,bronchites
+>=50k,69,M,40939,5,pneumonia
+<50k,35,M,30094,2,diabetes
+>=50k,70,M,34895,3,anemia
+>=50k,34,F,54359,8,cardiac arrest
+<50k,63,F,46962,4,cancer
+<50k,30,F,44964,11,bronchites
+>=50k,72,F,53285,1,diabetes
+<50k,53,F,52020,9,cancer
+>=50k,71,M,22383,8,bronchites
+>=50k,40,M,25982,13,diabetes
+<50k,55,M,30190,6,cancer
+<50k,41,M,28387,5,pneumonia
+>=50k,66,M,48299,6,cardiac arrest
+<50k,41,M,22120,12,bronchites
+>=50k,51,M,49035,7,cardiac arrest
+>=50k,63,M,36560,11,diabetes
+<50k,72,M,23988,1,bronchites
+<50k,50,M,41957,13,anemia
+>=50k,69,M,39679,13,cardiac arrest
+<50k,75,M,28599,1,cancer
+>=50k,55,M,33744,2,bronchites
+>=50k,58,M,26948,12,anemia
+<50k,47,F,25953,10,pneumonia
+<50k,37,F,22461,7,cancer
+>=50k,48,F,43328,11,pneumonia
+<50k,70,F,28835,1,diabetes
+>=50k,56,F,39216,1,anemia
+>=50k,41,F,27735,7,cardiac arrest
+<50k,41,M,45943,7,cancer
+<50k,36,F,41381,8,bronchites
+>=50k,34,F,49445,1,pneumonia
+<50k,50,M,29020,12,bronchites
+>=50k,57,M,40153,11,anemia
+>=50k,32,M,34762,11,cardiac arrest
+<50k,79,M,27969,8,bronchites
+<50k,75,M,28937,13,cardiac arrest
+>=50k,73,M,27109,4,bronchites
+<50k,42,M,47166,13,pneumonia
+>=50k,33,M,32040,9,anemia
+>=50k,46,M,43854,13,cancer
+<50k,61,M,37873,7,cardiac arrest
+<50k,54,M,35713,6,anemia
+>=50k,35,M,48840,3,bronchites
+<50k,42,M,40642,3,anemia
+>=50k,51,M,40455,11,pneumonia
+>=50k,81,M,34920,14,bronchites
+<50k,41,M,25404,12,cardiac arrest
+<50k,77,M,29329,11,anemia
+>=50k,49,M,52047,11,cancer
+<50k,33,F,46673,15,cardiac arrest
+>=50k,44,F,23080,11,cardiac arrest
+>=50k,38,F,31760,3,bronchites
+<50k,31,F,43484,4,pneumonia
+<50k,53,F,26699,13,anemia
+>=50k,38,F,51151,12,bronchites
+<50k,77,M,38816,11,anemia
+>=50k,29,F,51079,3,cancer
+>=50k,41,F,46719,13,pneumonia
+<50k,32,F,32901,13,bronchites
+<50k,39,M,33534,14,cardiac arrest
+>=50k,45,M,48032,12,bronchites
+<50k,33,M,42749,11,anemia
+>=50k,59,F,53107,2,cancer
+>=50k,55,M,50262,10,pneumonia
+<50k,29,F,45971,10,pneumonia
+<50k,74,M,28301,13,cardiac arrest
+>=50k,64,M,36324,7,bronchites
+<50k,79,M,48170,9,cancer
+>=50k,56,M,24042,15,anemia
+>=50k,62,M,39651,12,cancer
+<50k,63,F,27593,4,cardiac arrest
+<50k,63,F,33464,10,bronchites
+>=50k,78,F,22899,15,cancer
+<50k,62,F,40037,14,pneumonia
+>=50k,74,F,50371,9,pneumonia
+>=50k,39,F,52899,14,cardiac arrest
+<50k,57,F,51656,5,bronchites
+<50k,33,M,42027,9,bronchites
+>=50k,29,F,40075,13,anemia
+<50k,51,F,52751,12,diabetes
+>=50k,59,F,38346,8,anemia
+>=50k,41,F,42711,1,cardiac arrest
+<50k,29,F,37619,13,anemia
+<50k,65,M,31669,4,bronchites
+>=50k,33,M,32667,2,cancer
+<50k,61,M,35720,11,pneumonia
+>=50k,77,F,33754,8,diabetes
+>=50k,65,M,46583,4,anemia
+<50k,54,M,54223,6,cardiac arrest
+<50k,54,M,28258,15,cancer
+>=50k,50,M,43535,14,bronchites
+<50k,75,M,54626,2,cancer
+>=50k,72,M,39360,7,anemia
+>=50k,63,M,47426,15,pneumonia
+<50k,33,M,26786,8,bronchites
+<50k,68,M,47434,1,anemia
+>=50k,27,M,54862,7,cancer
+<50k,50,F,26910,6,cardiac arrest
+>=50k,72,F,39963,13,anemia
+>=50k,78,F,51094,3,bronchites
+>=50k,70,M,23562,9,pneumonia
+<50k,64,M,54550,15,diabetes
+>=50k,69,M,44084,5,anemia
+>=50k,37,F,37538,1,cardiac arrest
+<50k,50,F,42701,2,cancer
+<50k,30,F,26350,3,bronchites
+>=50k,79,F,55187,4,diabetes
+<50k,40,F,28868,6,cancer
+>=50k,64,M,43613,7,bronchites
+>=50k,42,M,35613,13,diabetes
+<50k,39,M,40957,3,cancer
+<50k,76,M,52508,12,pneumonia
+>=50k,28,M,47119,12,cardiac arrest
+<50k,68,M,31240,7,bronchites
+>=50k,60,M,28029,9,cardiac arrest
+>=50k,76,M,40213,8,diabetes
+<50k,61,M,48706,11,bronchites
+<50k,31,M,28106,14,anemia
+>=50k,27,M,33510,9,cardiac arrest
+<50k,37,M,25643,14,cancer
+>=50k,34,M,31216,9,bronchites
+>=50k,32,M,35817,4,anemia
+<50k,34,F,39259,12,pneumonia
+<50k,41,F,52375,15,cancer
+>=50k,69,F,26235,7,pneumonia
+<50k,60,F,31039,10,diabetes
+>=50k,39,F,43690,2,anemia
+>=50k,60,F,42954,5,cardiac arrest
+<50k,41,M,29717,14,cancer
+<50k,74,F,33049,14,bronchites
+>=50k,71,F,43530,6,pneumonia
+<50k,53,M,25529,5,bronchites
+>=50k,51,M,28429,13,anemia
+>=50k,69,M,30699,13,cardiac arrest
+<50k,36,M,50008,4,bronchites
+<50k,74,M,24634,13,cardiac arrest
+>=50k,28,M,47820,4,bronchites
+<50k,42,M,55110,13,pneumonia
+>=50k,81,M,23821,11,anemia
+>=50k,51,M,42107,2,cancer
+<50k,46,M,36761,6,cardiac arrest
+<50k,77,M,42823,10,anemia
+>=50k,60,M,54027,1,bronchites
+<50k,59,M,48392,3,anemia
+>=50k,35,M,22883,2,pneumonia
+>=50k,54,M,26697,10,bronchites
+<50k,65,M,51125,4,cardiac arrest
+<50k,38,M,54516,3,anemia
+>=50k,41,M,24834,13,cancer
+<50k,39,F,49861,12,cardiac arrest
+>=50k,44,F,50321,15,cardiac arrest
+>=50k,65,F,53549,5,bronchites
+<50k,59,F,34299,10,pneumonia
+<50k,48,F,41592,6,anemia
+>=50k,81,F,36317,3,bronchites
+<50k,78,M,49152,12,anemia
+>=50k,64,F,36101,6,cancer
+>=50k,73,F,26863,4,pneumonia
+<50k,40,F,45499,2,bronchites
+<50k,54,M,30666,7,cardiac arrest
+>=50k,75,M,28485,3,bronchites
+<50k,60,M,37908,15,anemia
+>=50k,37,F,44053,12,cancer
+>=50k,81,M,35527,12,pneumonia
+<50k,54,F,22887,15,pneumonia
+<50k,66,M,33626,11,cardiac arrest
+>=50k,41,M,37110,12,bronchites
+<50k,72,M,32619,10,cancer
+>=50k,34,M,36842,15,anemia
+>=50k,77,M,45707,4,cancer
+<50k,47,F,36184,13,cardiac arrest
+<50k,73,F,40160,7,bronchites
+>=50k,59,F,34354,10,cancer
+<50k,75,F,26116,8,pneumonia
+>=50k,44,F,46116,15,pneumonia
+>=50k,45,F,48368,12,cardiac arrest
+<50k,66,F,49490,3,bronchites
+<50k,70,M,27416,10,bronchites
+>=50k,65,F,55016,3,anemia
+<50k,43,F,42278,12,diabetes
+>=50k,75,F,35103,10,anemia
+>=50k,50,F,49156,9,cardiac arrest
+<50k,73,F,47957,8,anemia
+<50k,36,M,40004,6,bronchites
+>=50k,74,M,30360,6,cancer
+<50k,46,M,43177,7,pneumonia
+>=50k,64,F,42193,5,diabetes
+>=50k,46,M,31708,3,anemia
+<50k,60,M,24404,11,cardiac arrest
+<50k,79,M,22139,3,cancer
+>=50k,30,M,37455,15,bronchites
+<50k,78,M,51856,9,cancer
+>=50k,40,M,51775,8,anemia
+>=50k,67,M,22131,7,pneumonia
+<50k,47,M,24961,5,bronchites
+<50k,37,M,38503,15,anemia
+>=50k,66,M,24237,1,cancer
+<50k,38,F,34816,11,cardiac arrest
+>=50k,44,F,25117,9,anemia
+>=50k,38,F,51535,14,bronchites
+>=50k,71,M,35514,13,pneumonia
+<50k,34,M,39317,3,diabetes
+>=50k,32,M,55165,11,anemia
+>=50k,61,F,37282,2,cardiac arrest
+<50k,72,F,45962,12,cancer
+<50k,52,F,30001,7,bronchites
+>=50k,39,F,28868,3,diabetes
+<50k,48,F,22562,10,cancer
+>=50k,58,M,27532,15,bronchites
+>=50k,57,M,22819,6,diabetes
+<50k,68,M,32917,13,cancer
+<50k,59,M,28215,6,pneumonia
+>=50k,37,M,24560,5,cardiac arrest
+<50k,74,M,44742,10,bronchites
+>=50k,28,M,26928,14,cardiac arrest
+>=50k,42,M,26756,1,diabetes
+<50k,27,M,41380,1,bronchites
+<50k,66,M,34589,14,anemia
+>=50k,59,M,45028,10,cardiac arrest
+<50k,72,M,41698,5,cancer
+>=50k,79,M,50283,9,bronchites
+>=50k,62,M,26026,5,anemia
+<50k,30,F,31244,5,pneumonia
+<50k,65,F,35818,4,cancer
+>=50k,76,F,51342,9,pneumonia
+<50k,70,F,34258,8,diabetes
+>=50k,34,F,39438,4,anemia
+>=50k,43,F,25313,5,cardiac arrest
+<50k,64,M,53315,12,cancer
+<50k,53,F,40847,1,bronchites
+>=50k,78,F,31146,12,pneumonia
+<50k,63,M,25368,12,bronchites
+>=50k,44,M,28266,15,anemia
+>=50k,40,M,30319,11,cardiac arrest
+<50k,30,M,23975,3,bronchites
+<50k,54,M,26300,2,cardiac arrest
+>=50k,73,M,49637,15,bronchites
+<50k,61,M,41649,12,pneumonia
+>=50k,36,M,29959,12,anemia
+>=50k,29,M,32176,7,cancer
+<50k,48,M,50457,13,cardiac arrest
+<50k,68,M,39009,15,anemia
+>=50k,56,M,50059,7,bronchites
+<50k,77,M,37586,13,anemia
+>=50k,46,M,39769,15,pneumonia
+>=50k,31,M,54006,8,bronchites
+<50k,33,M,30510,9,cardiac arrest
+<50k,77,M,34714,13,anemia
+>=50k,70,M,49073,10,cancer
+<50k,64,F,40216,2,cardiac arrest
+>=50k,76,F,30234,5,cardiac arrest
+>=50k,27,F,48256,4,bronchites
+<50k,69,F,22543,4,pneumonia
+<50k,55,F,38068,1,anemia
+>=50k,57,F,35340,14,bronchites
+<50k,62,M,47251,14,anemia
+>=50k,34,F,24597,15,cancer
+>=50k,65,F,36971,9,pneumonia
+<50k,36,F,31976,7,bronchites
+<50k,71,M,41691,13,cardiac arrest
+>=50k,41,M,45411,10,bronchites
+<50k,54,M,27305,5,anemia
+>=50k,31,F,40708,15,cancer
+>=50k,33,M,22306,1,pneumonia
+<50k,69,F,22804,3,pneumonia
+<50k,77,M,35729,13,cardiac arrest
+>=50k,39,M,37991,3,bronchites
+<50k,46,M,25698,6,cancer
+>=50k,55,M,34207,5,anemia
+>=50k,61,M,47589,14,cancer
+<50k,80,F,44683,15,cardiac arrest
+<50k,29,F,31183,15,bronchites
+>=50k,36,F,44327,7,cancer
+<50k,53,F,24175,6,pneumonia
+>=50k,69,F,28364,8,pneumonia
+>=50k,35,F,23765,5,cardiac arrest
+<50k,36,F,22383,15,bronchites
+<50k,52,M,22564,8,bronchites
+>=50k,37,F,52128,6,anemia
+<50k,75,F,48747,1,diabetes
+>=50k,58,F,53562,4,anemia
+>=50k,52,F,47934,13,cardiac arrest
+<50k,60,F,46350,6,anemia
+<50k,53,M,26451,12,bronchites
+>=50k,70,M,51953,5,cancer
+<50k,74,M,39698,11,pneumonia
+>=50k,30,F,36388,3,diabetes
+>=50k,77,M,43974,7,anemia
+<50k,80,M,25337,1,cardiac arrest
+<50k,74,M,45438,13,cancer
+>=50k,35,M,47064,7,bronchites
+<50k,50,M,24686,5,cancer
+>=50k,68,M,30405,15,anemia
+>=50k,81,M,37126,9,pneumonia
+<50k,33,M,36336,7,bronchites
+<50k,79,M,50752,9,anemia
+>=50k,71,M,32620,13,cancer
+<50k,60,F,23752,9,cardiac arrest
+>=50k,55,F,28770,14,anemia
+>=50k,30,F,54648,6,bronchites
+>=50k,72,M,22498,9,pneumonia
+<50k,81,M,22159,13,diabetes
+>=50k,45,M,53640,4,anemia
+>=50k,33,F,32912,14,cardiac arrest
+<50k,38,F,44074,1,cancer
+<50k,29,F,34176,12,bronchites
+>=50k,57,F,29098,3,diabetes
+<50k,33,F,29818,15,cancer
+>=50k,30,M,54652,8,bronchites
+>=50k,41,M,48871,7,diabetes
+<50k,35,M,44026,7,cancer
+<50k,63,M,54363,2,pneumonia
+>=50k,67,M,27495,15,cardiac arrest
+<50k,30,M,54617,12,bronchites
+>=50k,39,M,28371,10,cardiac arrest
+>=50k,79,M,44034,2,diabetes
+<50k,39,M,54296,14,bronchites
+<50k,43,M,52681,14,anemia
+>=50k,57,M,43618,12,cardiac arrest
+<50k,35,M,33170,14,cancer
+>=50k,57,M,47504,3,bronchites
+>=50k,36,M,54165,7,anemia
+<50k,32,F,28376,6,pneumonia
+<50k,37,F,39980,12,cancer
+>=50k,70,F,35951,2,pneumonia
+<50k,57,F,52717,3,diabetes
+>=50k,38,F,31939,14,anemia
+>=50k,67,F,52788,9,cardiac arrest
+<50k,48,M,26137,5,cancer
+<50k,52,F,44050,2,bronchites
+>=50k,75,F,35562,1,pneumonia
+<50k,37,M,43600,9,bronchites
+>=50k,52,M,38139,9,anemia
+>=50k,35,M,40559,1,cardiac arrest
+<50k,41,M,38371,12,bronchites
+<50k,31,M,36347,10,cardiac arrest
+>=50k,27,M,31498,3,bronchites
+<50k,46,M,32949,7,pneumonia
+>=50k,78,M,46492,5,anemia
+>=50k,58,M,32460,15,cancer
+<50k,51,M,23703,2,cardiac arrest
+<50k,62,M,46445,8,anemia
+>=50k,66,M,41081,4,bronchites
+<50k,45,M,37160,14,anemia
+>=50k,58,M,30320,10,pneumonia
+>=50k,60,M,32593,9,bronchites
+<50k,63,M,47088,14,cardiac arrest
+<50k,45,M,33950,11,anemia
+>=50k,32,M,51029,11,cancer
+<50k,32,F,25801,3,cardiac arrest
+>=50k,27,F,44546,3,cardiac arrest
+>=50k,30,F,31051,9,bronchites
+<50k,62,F,45842,1,pneumonia
+<50k,27,F,40594,2,anemia
+>=50k,49,F,33175,10,bronchites
+<50k,37,M,55114,9,anemia
+>=50k,44,F,54927,14,cancer
+>=50k,63,F,24671,11,pneumonia
+<50k,33,F,50618,8,bronchites
+<50k,54,M,44309,3,cardiac arrest
+>=50k,49,M,49404,7,bronchites
+<50k,39,M,50550,4,anemia
+>=50k,49,F,25225,6,cancer
+>=50k,56,M,40341,4,pneumonia
+<50k,64,F,42612,4,pneumonia
+<50k,54,M,48363,7,cardiac arrest
+>=50k,37,M,49266,12,bronchites
+<50k,57,M,50486,9,cancer
+>=50k,30,M,22099,2,anemia
+>=50k,77,M,43961,5,cancer
+<50k,32,F,38796,1,cardiac arrest
+<50k,77,F,49900,10,bronchites
+>=50k,36,F,51598,11,cancer
+<50k,59,F,28879,12,pneumonia
+>=50k,35,F,33715,1,pneumonia
+>=50k,63,F,50432,4,cardiac arrest
+<50k,59,F,40665,13,bronchites
+<50k,67,M,46159,9,bronchites
+>=50k,68,F,41226,11,anemia
+<50k,51,F,44107,15,diabetes
+>=50k,54,F,46859,13,anemia
+>=50k,60,F,35003,15,cardiac arrest
+<50k,31,F,25507,8,anemia
+<50k,50,M,28105,1,bronchites
+>=50k,77,M,45397,12,cancer
+<50k,61,M,40813,1,pneumonia
+>=50k,36,F,22085,7,diabetes
+>=50k,44,M,36952,7,anemia
+<50k,37,M,34235,11,cardiac arrest
+<50k,41,M,32855,10,cancer
+>=50k,55,M,46373,14,bronchites
+<50k,79,M,50060,1,cancer
+>=50k,36,M,29017,3,anemia
+>=50k,57,M,47409,12,pneumonia
+<50k,42,M,48531,5,bronchites
+<50k,76,M,32583,8,anemia
+>=50k,39,M,28095,10,cancer
+<50k,54,F,52158,9,cardiac arrest
+>=50k,73,F,22164,12,anemia
+>=50k,60,F,49929,13,bronchites
+>=50k,73,M,23039,12,pneumonia
+<50k,81,M,53673,3,diabetes
+>=50k,31,M,27757,14,anemia
+>=50k,40,F,40253,5,cardiac arrest
+<50k,65,F,24464,11,cancer
+<50k,38,F,38287,6,bronchites
+>=50k,66,F,44504,9,diabetes
+<50k,77,F,42305,3,cancer
+>=50k,39,M,44152,8,bronchites
+>=50k,59,M,48344,15,diabetes
+<50k,38,M,22316,7,cancer
+<50k,56,M,25496,13,pneumonia
+>=50k,54,M,28167,14,cardiac arrest
+<50k,34,M,47168,7,bronchites
+>=50k,42,M,37285,5,cardiac arrest
+>=50k,47,M,43213,7,diabetes
+<50k,72,M,50023,9,bronchites
+<50k,42,M,23816,14,anemia
+>=50k,74,M,38956,9,cardiac arrest
+<50k,59,M,54588,10,cancer
+>=50k,71,M,50457,5,bronchites
+>=50k,34,M,32891,9,anemia
+<50k,69,F,42140,8,pneumonia
+<50k,32,F,23465,4,cancer
+>=50k,57,F,38325,4,pneumonia
+<50k,56,F,31985,10,diabetes
+>=50k,64,F,47508,7,anemia
+>=50k,36,F,32101,7,cardiac arrest
+<50k,70,M,49948,9,cancer
+<50k,34,F,52953,7,bronchites
+>=50k,27,F,39945,5,pneumonia
+<50k,36,M,38340,14,bronchites
+>=50k,27,M,34574,7,anemia
+>=50k,78,M,41689,13,cardiac arrest
+<50k,47,M,25853,10,bronchites
+<50k,39,M,43683,13,cardiac arrest
+>=50k,53,M,51611,10,bronchites
+<50k,67,M,27075,5,pneumonia
+>=50k,35,M,23052,1,anemia
+>=50k,43,M,23636,3,cancer
+<50k,73,M,40461,3,cardiac arrest
+<50k,41,M,50058,6,anemia
+>=50k,62,M,54650,4,bronchites
+<50k,56,M,32870,13,anemia
+>=50k,35,M,41917,3,pneumonia
+>=50k,81,M,34682,9,bronchites
+<50k,43,M,46489,8,cardiac arrest
+<50k,52,M,50363,7,anemia
+>=50k,66,M,39889,14,cancer
+<50k,37,F,24405,7,cardiac arrest
+>=50k,80,F,27033,1,cardiac arrest
+>=50k,28,F,39119,7,bronchites
+<50k,72,F,28727,13,pneumonia
+<50k,33,F,52501,12,anemia
+>=50k,45,F,39593,4,bronchites
+<50k,53,M,44097,10,anemia
+>=50k,44,F,34488,11,cancer
+>=50k,50,F,39200,12,pneumonia
+<50k,54,F,32144,13,bronchites
+<50k,73,M,26510,11,cardiac arrest
+>=50k,78,M,49907,4,bronchites
+<50k,76,M,51483,11,anemia
+>=50k,51,F,50652,11,cancer
+>=50k,35,M,37480,4,pneumonia
+<50k,65,F,54851,5,pneumonia
+<50k,62,M,38345,1,cardiac arrest
+>=50k,60,M,45108,1,bronchites
+<50k,41,M,37491,6,cancer
+>=50k,68,M,39524,6,anemia
+>=50k,53,M,26405,10,cancer
+<50k,77,F,42258,14,cardiac arrest
+<50k,52,F,28962,2,bronchites
+>=50k,45,F,42618,11,cancer
+<50k,33,F,36124,6,pneumonia
+>=50k,61,F,37977,9,pneumonia
+>=50k,34,F,32014,6,cardiac arrest
+<50k,57,F,44517,14,bronchites
+<50k,42,M,33433,12,bronchites
+>=50k,79,F,41264,10,anemia
+<50k,70,F,49093,3,diabetes
+>=50k,41,F,42583,10,anemia
+>=50k,61,F,23596,8,cardiac arrest
+<50k,72,F,54618,2,anemia
+<50k,54,M,52414,6,bronchites
+>=50k,79,M,50621,8,cancer
+<50k,60,M,51033,6,pneumonia
+>=50k,75,F,54948,13,diabetes
+>=50k,36,M,29372,13,anemia
+<50k,63,M,34754,5,cardiac arrest
+<50k,69,M,26121,12,cancer
+>=50k,74,M,23252,13,bronchites
+<50k,55,M,25627,6,cancer
+>=50k,46,M,46367,8,anemia
+>=50k,33,M,31389,1,pneumonia
+<50k,55,M,29843,3,bronchites
+<50k,44,M,26733,5,anemia
+>=50k,35,M,44765,6,cancer
+<50k,45,F,26080,3,cardiac arrest
+>=50k,35,F,54893,12,anemia
+>=50k,28,F,47362,10,bronchites
+>=50k,74,M,28739,15,pneumonia
+<50k,54,M,44530,10,diabetes
+>=50k,61,M,28505,7,anemia
+>=50k,42,F,51597,15,cardiac arrest
+<50k,36,F,26697,10,cancer
+<50k,47,F,35351,5,bronchites
+>=50k,28,F,51006,8,diabetes
+<50k,60,F,55050,10,cancer
+>=50k,78,M,44172,1,bronchites
+>=50k,33,M,37721,4,diabetes
+<50k,33,M,38724,5,cancer
+<50k,67,M,45669,1,pneumonia
+>=50k,39,M,45140,9,cardiac arrest
+<50k,41,M,52438,4,bronchites
+>=50k,53,M,50261,9,cardiac arrest
+>=50k,42,M,44908,11,diabetes
+<50k,40,M,45095,6,bronchites
+<50k,71,M,31628,6,anemia
+>=50k,48,M,30240,8,cardiac arrest
+<50k,27,M,32649,15,cancer
+>=50k,47,M,28467,3,bronchites
+>=50k,35,M,26467,8,anemia
+<50k,52,F,49110,11,pneumonia
+<50k,40,F,46440,6,cancer
+>=50k,46,F,37757,14,pneumonia
+<50k,30,F,26476,14,diabetes
+>=50k,40,F,43869,10,anemia
+>=50k,37,F,29363,8,cardiac arrest
+<50k,52,M,25593,1,cancer
+<50k,55,F,36568,4,bronchites
+>=50k,37,F,34336,4,pneumonia
+<50k,42,M,22927,3,bronchites
+>=50k,34,M,31130,12,anemia
+>=50k,61,M,35246,7,cardiac arrest
+<50k,81,M,29179,14,bronchites
+<50k,43,M,35573,2,cardiac arrest
+>=50k,28,M,26087,7,bronchites
+<50k,80,M,30844,1,pneumonia
+>=50k,40,M,44506,7,anemia
+>=50k,44,M,47095,13,cancer
+<50k,54,M,49606,8,cardiac arrest
+<50k,31,M,34302,3,anemia
+>=50k,44,M,23768,8,bronchites
+<50k,68,M,33455,5,anemia
+>=50k,64,M,31712,11,pneumonia
+>=50k,46,M,31042,5,bronchites
+<50k,61,M,49732,13,cardiac arrest
+<50k,68,M,40919,13,anemia
+>=50k,73,M,25935,13,cancer
+<50k,29,F,34996,15,cardiac arrest
+>=50k,51,F,22390,4,cardiac arrest
+>=50k,27,F,35043,13,bronchites
+<50k,50,F,41827,4,pneumonia
+<50k,70,F,48987,8,anemia
+>=50k,58,F,42349,3,bronchites
+<50k,70,M,52006,10,anemia
+>=50k,31,F,52132,8,cancer
+>=50k,48,F,35452,2,pneumonia
+<50k,29,F,33038,3,bronchites
+<50k,78,M,39815,3,cardiac arrest
+>=50k,29,M,35703,4,bronchites
+<50k,55,M,55157,8,anemia
+>=50k,36,F,27212,10,cancer
+>=50k,33,M,36468,2,pneumonia
+<50k,38,F,27892,3,pneumonia
+<50k,69,M,42747,15,cardiac arrest
+>=50k,63,M,48795,14,bronchites
+<50k,35,M,35749,2,cancer
+>=50k,43,M,50079,2,anemia
+>=50k,46,M,30530,8,cancer
+<50k,68,F,23189,10,cardiac arrest
+<50k,45,F,52231,11,bronchites
+>=50k,57,F,50753,6,cancer
+<50k,61,F,41841,12,pneumonia
+>=50k,58,F,43080,1,pneumonia
+>=50k,60,F,22306,15,cardiac arrest
+<50k,42,F,35444,7,bronchites
+<50k,58,M,34080,2,bronchites
+>=50k,64,F,50842,8,anemia
+<50k,48,F,42540,13,diabetes
+>=50k,37,F,41534,7,anemia
+>=50k,56,F,45472,3,cardiac arrest
+<50k,60,F,26075,2,anemia
+<50k,29,M,28653,8,bronchites
+>=50k,35,M,31487,9,cancer
+<50k,72,M,26825,3,pneumonia
+>=50k,76,F,48442,8,diabetes
+>=50k,66,M,30213,11,anemia
+<50k,44,M,37501,1,cardiac arrest
+<50k,67,M,54315,6,cancer
+>=50k,63,M,36853,12,bronchites
+<50k,29,M,27395,1,cancer
+>=50k,45,M,33597,6,anemia
+>=50k,43,M,53039,14,pneumonia
+<50k,73,M,51510,7,bronchites
+<50k,32,M,36725,8,anemia
+>=50k,29,M,22342,9,cancer
+<50k,47,F,31945,14,cardiac arrest
+>=50k,49,F,54709,14,anemia
+>=50k,60,F,44004,11,bronchites
+>=50k,75,M,54572,5,pneumonia
+<50k,46,M,23259,8,diabetes
+>=50k,69,M,55197,4,anemia
+>=50k,80,F,51673,4,cardiac arrest
+<50k,64,F,51794,8,cancer
+<50k,59,F,51172,8,bronchites
+>=50k,71,F,28355,11,diabetes
+<50k,69,F,52292,12,cancer
+>=50k,67,M,40235,2,bronchites
+>=50k,51,M,43683,4,diabetes
+<50k,64,M,49844,9,cancer
+<50k,36,M,39250,14,pneumonia
+>=50k,54,M,42995,6,cardiac arrest
+<50k,53,M,23591,5,bronchites
+>=50k,36,M,48732,2,cardiac arrest
+>=50k,32,M,54659,7,diabetes
+<50k,29,M,28907,14,bronchites
+<50k,46,M,51132,5,anemia
+>=50k,47,M,31462,11,cardiac arrest
+<50k,33,M,29876,5,cancer
+>=50k,55,M,22906,6,bronchites
+>=50k,59,M,42826,12,anemia
+<50k,53,F,39023,7,pneumonia
+<50k,62,F,41845,10,cancer
+>=50k,35,F,30066,3,pneumonia
+<50k,36,F,30142,8,diabetes
+>=50k,67,F,46855,1,anemia
+>=50k,30,F,37122,4,cardiac arrest
+<50k,79,M,24302,1,cancer
+<50k,75,F,53336,9,bronchites
+>=50k,58,F,46926,3,pneumonia
+<50k,44,M,44815,8,bronchites
+>=50k,56,M,27796,15,anemia
+>=50k,66,M,26670,15,cardiac arrest
+<50k,27,M,28633,6,bronchites
+<50k,56,M,36773,4,cardiac arrest
+>=50k,41,M,33055,9,bronchites
+<50k,56,M,22166,15,pneumonia
+>=50k,46,M,43625,8,anemia
+>=50k,61,M,47796,11,cancer
+<50k,61,M,48695,6,cardiac arrest
+<50k,55,M,41345,7,anemia
+>=50k,76,M,45203,15,bronchites
+<50k,38,M,51305,15,anemia
+>=50k,60,M,26485,8,pneumonia
+>=50k,39,M,51453,4,bronchites
+<50k,64,M,39301,11,cardiac arrest
+<50k,33,M,36794,12,anemia
+>=50k,39,M,44891,13,cancer
+<50k,35,F,47996,11,cardiac arrest
+>=50k,48,F,38786,2,cardiac arrest
+>=50k,68,F,49479,3,bronchites
+<50k,63,F,25751,13,pneumonia
+<50k,47,F,49858,13,anemia
+>=50k,62,F,26342,5,bronchites
+<50k,56,M,45604,2,anemia
+>=50k,70,F,37538,3,cancer
+>=50k,49,F,49367,3,pneumonia
+<50k,50,F,23517,13,bronchites
+<50k,43,M,27314,1,cardiac arrest
+>=50k,30,M,34494,4,bronchites
+<50k,73,M,25467,7,anemia
+>=50k,46,F,33082,4,cancer
+>=50k,78,M,53976,2,pneumonia
+<50k,43,F,54277,5,pneumonia
+<50k,53,M,52755,9,cardiac arrest
+>=50k,72,M,39384,12,bronchites
+<50k,62,M,49235,2,cancer
+>=50k,39,M,30834,10,anemia
+>=50k,49,M,23529,7,cancer
+<50k,66,F,38436,2,cardiac arrest
+<50k,69,F,22551,5,bronchites
+>=50k,58,F,36312,11,cancer
+<50k,80,F,33513,13,pneumonia
+>=50k,39,F,28719,10,pneumonia
+>=50k,71,F,49198,1,cardiac arrest
+<50k,66,F,42092,13,bronchites
+<50k,66,M,31935,9,bronchites
+>=50k,29,F,32183,12,anemia
+<50k,39,F,33255,4,diabetes
+>=50k,34,F,55175,12,anemia
+>=50k,31,F,25892,2,cardiac arrest
+<50k,38,F,29483,9,anemia
+<50k,68,M,30540,8,bronchites
+>=50k,64,M,28211,2,cancer
+<50k,28,M,50528,5,pneumonia
+>=50k,60,F,42635,1,diabetes
+>=50k,62,M,22758,12,anemia
+<50k,75,M,54914,9,cardiac arrest
+<50k,67,M,25725,5,cancer
+>=50k,42,M,35905,8,bronchites
+<50k,74,M,38716,4,cancer
+>=50k,79,M,27699,13,anemia
+>=50k,64,M,42049,5,pneumonia
+<50k,63,M,49013,12,bronchites
+<50k,34,M,26798,6,anemia
+>=50k,57,M,36308,9,cancer
+<50k,29,F,49886,10,cardiac arrest
+>=50k,53,F,24404,9,anemia
+>=50k,65,F,53985,14,bronchites
+>=50k,76,M,29434,12,pneumonia
+<50k,28,M,25967,2,diabetes
+>=50k,45,M,23718,1,anemia
+>=50k,47,F,48969,14,cardiac arrest
+<50k,34,F,23121,1,cancer
+<50k,37,F,36317,9,bronchites
+>=50k,53,F,52878,3,diabetes
+<50k,51,F,38102,10,cancer
+>=50k,46,M,45642,8,bronchites
+>=50k,66,M,53076,9,diabetes
+<50k,29,M,40745,11,cancer
+<50k,39,M,27709,15,pneumonia
+>=50k,40,M,54227,9,cardiac arrest
+<50k,62,M,47907,15,bronchites
+>=50k,33,M,51113,11,cardiac arrest
+>=50k,63,M,30375,11,diabetes
+<50k,64,M,52696,9,bronchites
+<50k,62,M,29023,9,anemia
+>=50k,31,M,29360,10,cardiac arrest
+<50k,67,M,22586,5,cancer
+>=50k,72,M,41658,6,bronchites
+>=50k,31,M,32674,1,anemia
+<50k,49,F,52653,10,pneumonia
+<50k,76,F,53701,6,cancer
+>=50k,72,F,41995,7,pneumonia
+<50k,49,F,26170,1,diabetes
+>=50k,79,F,25412,5,anemia
+>=50k,47,F,51049,9,cardiac arrest
+<50k,37,M,51170,3,cancer
+<50k,32,F,45838,4,bronchites
+>=50k,73,F,40454,10,pneumonia
+<50k,79,M,22236,14,bronchites
+>=50k,35,M,28406,15,anemia
+>=50k,59,M,39603,2,cardiac arrest
+<50k,45,M,52335,2,bronchites
+<50k,81,M,27830,11,cardiac arrest
+>=50k,49,M,47089,15,bronchites
+<50k,69,M,48092,1,pneumonia
+>=50k,39,M,53921,9,anemia
+>=50k,33,M,47460,4,cancer
+<50k,41,M,33342,10,cardiac arrest
+<50k,39,M,36993,4,anemia
+>=50k,54,M,46402,3,bronchites
+<50k,51,M,43460,7,anemia
+>=50k,43,M,39714,11,pneumonia
+>=50k,57,M,24104,5,bronchites
+<50k,39,M,34796,12,cardiac arrest
+<50k,54,M,40253,10,anemia
